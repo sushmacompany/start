@@ -1,0 +1,8 @@
+/opt/start/src/main/java/start/rest/MemberResourceRESTService.java
+/opt/start/src/main/java/start/util/Resources.java
+/opt/start/src/main/java/start/model/Member.java
+/opt/start/src/main/java/start/service/MemberRegistration.java
+/opt/start/src/main/java/start/controller/MemberController.java
+/opt/start/src/main/java/start/rest/JaxRsActivator.java
+/opt/start/src/main/java/start/data/MemberRepository.java
+/opt/start/src/main/java/start/data/MemberListProducer.java

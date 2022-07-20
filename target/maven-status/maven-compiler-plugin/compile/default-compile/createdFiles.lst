@@ -1,0 +1,9 @@
+start/rest/MemberResourceRESTService.class
+start/model/Member.class
+start/model/Member_.class
+start/rest/JaxRsActivator.class
+start/data/MemberRepository.class
+start/controller/MemberController.class
+start/service/MemberRegistration.class
+start/util/Resources.class
+start/data/MemberListProducer.class
